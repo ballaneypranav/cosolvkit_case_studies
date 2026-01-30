@@ -1,0 +1,10 @@
+[
+    {
+        "name": "naphthalene",
+        "smiles": "C1=CC=C2C=CC=CC2=C1",
+        "resname": "NAP",
+        "concentration": 0.25
+    }
+]
+
+

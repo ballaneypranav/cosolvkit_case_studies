@@ -1,0 +1,8 @@
+[
+  {
+    "name": "1-pentanol",
+    "smiles": "CCCCCO",
+    "resname": "PEN",
+    "concentration": 0.25
+  }
+]

@@ -1,0 +1,19 @@
+LpqN case study:
+
+Three cosolvent simulation were performed with different conditions and a config.json and the proper cosovlent.json were created for each condition:
+	- no cosolvent: config_LpqN.json 
+	- n-hexane: config_LpqN_HEX.json
+	- n-pentane: config_LpqN_PEN.json
+
+Each condition can be replicated by running the following command within the case study's folder in a proper and activated conda environment (see the installation instructions):
+	prepare_cosolvent_system -c <config_of_interest.json>
+
+NPC2 case study:
+
+Three cosolvent simulation were performed with different conditions and a config.json and the proper cosovlent.json were created for each condition:
+	- no cosolvent: config_NPC2.json 
+	- tert-butane: config_NPC2_BUT.json
+	- naphthalene: config_NPC2_NAP.json
+
+Each condition can be replicated by running the following command within the case study's folder in a proper and activated conda environment (see the installation instructions):
+	prepare_cosolvent_system -c <config_of_interest.json>}

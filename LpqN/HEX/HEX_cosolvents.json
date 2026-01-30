@@ -1,0 +1,8 @@
+[
+    {
+        "name": "n-hexane",
+        "smiles": "CCCCCC",
+        "resname": "HEX",
+        "concentration": 0.25
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Phenylalanine",
+        "concentration": 0.15,
+        "smiles": "c1ccccc1",
+        "resname": "EHP"
+    },
+    {
+        "name": "Tysosine",
+        "concentration": 0.15,
+        "smiles": "c1ccccc1O",
+        "resname": "RYT"
+    },
+    {
+        "name": "Histidine",
+        "concentration": 0.15,
+        "smiles": "C1=CN=CN1",
+        "resname": "SIH"
+    },
+    {
+        "name": "Serine-Threonine",
+        "concentration": 0.15,
+        "smiles": "CC(O)C",
+        "resname": "STH"
+    },
+    {
+        "name": "Asparagine-Glutamine",
+        "concentration": 0.15,
+        "smiles": "CC(=O)N",
+        "resname": "AGN"
+    },
+    {
+        "name": "valine",
+        "concentration": 0.15,
+        "smiles": "CC(C)C",
+        "resname": "LAV"
+    },
+    {
+        "name": "(Iso)Leucine",
+        "concentration": 0.15,
+        "smiles": "CC(C)CC",
+        "resname": "UEL"
+    },
+    {
+        "name": "Aspartate-Glutamate",
+        "concentration": 0.30,
+        "smiles": "CC(=O)[O-]",
+        "resname": "NEG"
+    },
+    {
+        "name": "Arginine",
+        "concentration": 0.15,
+        "smiles": "C(=[NH2+])(N)NC",
+        "resname": "GRA"
+    },
+    {
+        "name": "Lysine",
+        "concentration": 0.15,
+        "smiles": "CC[NH3+]",
+        "resname": "SYL"
+    },
+    {
+        "name": "Histidine-P",
+        "concentration": 0.15,
+        "smiles": "C1=C[NH+]=CN1" ,
+        "resname": "PIH"
+    }
+]
